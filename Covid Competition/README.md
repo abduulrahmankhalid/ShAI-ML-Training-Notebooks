@@ -1,5 +1,5 @@
 # **COVID Chest X-ray Detection Competition**
-
+## Kaggle Notebook: https://www.kaggle.com/code/abduulrahmankhalid/pre-trained-models-comparisons-place-solution
 **The primary objective of this project was to classify Chest X-ray images and provide accurate diagnoses for patients.**
 - Initially, we developed a conventional CNN model that demonstrated exceptional performance.
 
