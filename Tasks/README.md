@@ -1,3 +1,3 @@
 # **Deep Learning Tasks Notebooks**
 
-## Kaggle Notebook: https://www.kaggle.com/code/abduulrahmankhalid/pre-trained-models-comparisons-place-solution
+## Kaggle Notebook: https://www.kaggle.com/code/abduulrahmankhalid/sentimental-tweets-preprocessing-modeling-tutorial
